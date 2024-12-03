@@ -1,0 +1,1 @@
+document.getElementById('titulo').innerText = 'Qual seu anime favorito?';
